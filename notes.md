@@ -1,0 +1,3 @@
+- Git is used for version control.
+- GitHub is used to store and collaborate on Git repositories.
+- Git commands like add, commit, push, pull, and branch help manage project changes.
